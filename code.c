@@ -62,3 +62,5 @@ task main()
 		if(SensorValue[light]>=3050){turnFlashlightOff(Flashlight);wait(0.1);calc();}
 	}pause();
 }
+
+//Test on the GitHub app
